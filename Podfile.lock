@@ -1,0 +1,15 @@
+PODS:
+  - JSQWebViewController (4.0.0)
+  - QRCodeReader.swift (6.2.0)
+
+DEPENDENCIES:
+  - JSQWebViewController
+  - QRCodeReader.swift
+
+SPEC CHECKSUMS:
+  JSQWebViewController: f5e053a30fe27d3bb0c66636935918077d4b98b8
+  QRCodeReader.swift: 9d2a909104911296d918db3e4cf5af3fa1080cb2
+
+PODFILE CHECKSUM: 4e2a0dd6c02da2cca272760918ff9352d4cc89b3
+
+COCOAPODS: 1.0.1

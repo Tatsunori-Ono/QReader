@@ -1,0 +1,6 @@
+framework module Pods_QRTests {
+  umbrella header "Pods-QRTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
